@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Eduardo Shoiti
 
-- 🔭 Atualmente sou estudante no 3° ano do ensino médio integrado com técnico em Desenvolvimento de Sistemas
+- 🔭 Atualmente sou estudante do 3° ano do ensino médio integrado com técnico em Desenvolvimento de Sistemas
 - 📚 Estudando React Native e Python
 - 💻 Adoro a área de tecnologia. Estudo e faço cursos sobre, para aprender mais, me aperfeiçoar e seguir carreira na área
 - ⚽ Gosto muito de esportes, futebol e vôlei
