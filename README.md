@@ -1,4 +1,4 @@
-## Olá! Eu sou o Eduardo Shoiti
+## Hi! I'm Eduardo Shoiti
 
 - 🔭 Systems Development Technician - ETEC Professor Camargo Aranha
 - 👨‍💻 Graduated in Systems Analysis and Development - FIAP
