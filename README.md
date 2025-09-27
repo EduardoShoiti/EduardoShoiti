@@ -1,10 +1,20 @@
 ## Hi! I'm Eduardo Shoiti
 
+### Data Scientist
+
+I am a professional who loves what I do, 
+
+passionate about data and technology, with solid experience in data analysis and analytics engineering. 
+I work on data projects applied to financial products, focusing on automation, performance, and business impact. 
+Strong proficiency in SQL, Python, and Excel. Proactive, communicative, and value-delivery, with experience in 
+companies in the technology, ERP, startups, consulting and financial sectors.
+
+
+
 - 🔭 Systems Development Technician - ETEC Professor Camargo Aranha
 - 👨‍💻 Graduated in Systems Analysis and Development - FIAP
-- 📚 Studying Python/PySpark, ML, AI 
-- 💻 I am a professional who loves what I do, passionate about data and technology, with diverse experience in the data area in companies in the technology, ERP, startups, consulting and financial sectors.
-- 🧙 I like volleyball and I'm learning to cook.
+- 📚 Studying Python/PySpark, DS, ML, AI 
+- 🧙 I'm learning to cook.
 
  <div>
   <a href="https://github.com/EduardoShoiti">
@@ -15,7 +25,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
   
